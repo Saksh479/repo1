@@ -31,11 +31,5 @@ int main()
         cout<<a[j];
         
     }
-    
-    
-    
-    
     return(0);
 }
-// 75
-// 1
