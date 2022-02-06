@@ -3,6 +3,7 @@ using namespace std;
 int main(){
 int n;
 cin>>n;
+// masti starts here😁😁
 while(n--)
      {
          
@@ -42,10 +43,9 @@ while(n--)
                 cout<<"NO"<<endl;    
             }
 
-             
-             
-         }
+        }
     
       }
      return(0);
 }
+//no masti😍😍
