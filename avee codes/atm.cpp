@@ -1,17 +1,18 @@
-#include <iostream>
+#include<bits/stdc++.h>
 using namespace std;
-
 int main()
-{
-    int i=1,t=1;
-    do
-    {
-        cout<<i<<endl;
-        i=t*6;
-        t++;
+     {
+         float bal;
+         int x;
+         cin>>x>>bal;
+         if(x%5==0 && x+0.50<=bal)
+         {
+             cout<<fixed<<setprecision(2)<<bal-(x+0.50);
+         }
+         else 
+         {cout<<setprecision(2)<<bal;}
 
-    } while (t<=11);
-
-    
- return (0);
-}
+     
+     
+     return(0);
+     }   
