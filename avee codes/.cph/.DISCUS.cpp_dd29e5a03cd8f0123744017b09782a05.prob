@@ -1,0 +1,1 @@
+{"name":"Local: DISCUS","url":"c:\\Users\\SAKSHAM\\OneDrive\\Desktop\\c++ programming\\avee codes\\DISCUS.cpp","tests":[{"id":1647087095465,"input":"3\n10 15 8\n32 32 32\n82 45 54","output":"15\n32\n82"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\SAKSHAM\\OneDrive\\Desktop\\c++ programming\\avee codes\\DISCUS.cpp","group":"local","local":true}
