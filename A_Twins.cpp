@@ -11,14 +11,15 @@ int a[t];
           cin>>a[i];
           sum+=a[i];
      }
+sort(a,a+t,greater<int>());
+int i=0;
 int temp=0;
-int i=1;
 for (; i <= t; i++)
 {
      temp+=a[i];
      if(temp>sum/2)
      {break;}
 }
-     cout<<i;
+     cout<<i+1;
      return(0);
 }

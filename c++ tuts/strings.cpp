@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+  char str[]="nigga nigga ";
      
    /*string str,str1;     //declaration
      cin>>str;      // will input a string without spaces
